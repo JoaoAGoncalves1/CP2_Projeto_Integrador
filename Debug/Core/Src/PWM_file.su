@@ -1,0 +1,2 @@
+../Core/Src/PWM_file.c:10:5:Start_PWM	48	static
+../Core/Src/PWM_file.c:21:5:Change_PWM	48	static
